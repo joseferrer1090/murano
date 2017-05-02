@@ -1224,7 +1224,7 @@ a.dt-menu-expand {
     float: left;
     display: inline;
     padding: 0px;
-    margin: 40px 0 0;
+    margin: 40px -57px;
     text-align: center;
 }
 
@@ -5541,15 +5541,15 @@ a.btn-icon:hover i.fa {
 
 /*----*****---- << 16. Style Picker >> ----*****----*/
 
-.haircut-style-picker-wrapper {
+/*haircut-style-picker-wrapper {
     position: fixed;
     z-index: 999999;
     left: 0px;
     top: 150px;
     backface-visibility: hidden;
-}
+}*/
 
-#haircut-style-picker {
+/*#haircut-style-picker {
     background: #ffffff;
     width: 225px;
     float: left;
@@ -5562,9 +5562,9 @@ a.btn-icon:hover i.fa {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-}
+}*/
 
-#haircut-style-picker h2 {
+/*#haircut-style-picker h2 {
     background: #fefefe;
     font: normal 12px Tahoma, Geneva, sans-serif;
     text-transform: uppercase;
@@ -5574,66 +5574,66 @@ a.btn-icon:hover i.fa {
     border-bottom: 1px solid #dddddd;
     margin: 0px 0px 15px;
     padding: 0px;
-}
+}*/
 
-#haircut-style-picker h3 {
+/*#haircut-style-picker h3 {
     font: normal 12px Tahoma, Geneva, sans-serif;
     padding: 0px 0px 10px;
     width: 100%;
     color: #848484;
     margin: 0px;
     text-transform: uppercase;
-}
+}*/
 
-#haircut-style-picker ul {
+/*#haircut-style-picker ul {
     float: left;
     margin: 0px 0 15px;
     padding: 0px;
     text-align: center;
     width: 225px;
-}
+}*/
 
-#haircut-style-picker ul li {
+/*#haircut-style-picker ul li {
     display: inline-block;
     display: inline;
     list-style-type: none;
     padding: 0px;
     margin: 0px 0px 6px 0px;
-}
+}*/
 
-#haircut-style-picker ul li a {
+/*#haircut-style-picker ul li a {
     background: #ffffff;
     border: 1px solid #ffffff;
     padding: 1px;
     display: inline-block;
     margin: 0px;
     line-height: 0;
-}
+}*/
 
-#haircut-style-picker ul li a.selected {
+/*#haircut-style-picker ul li a.selected {
     border: 1px solid;
-}
+}*/
 
-#haircut-style-picker ul li a img {
+/*#haircut-style-picker ul li a img {
     border: 1px solid #d7d7d7;
     max-width: 100%;
-}
+}*/
 
-#haircut-style-picker ul.color-picker li a img {
+/*#haircut-style-picker ul.color-picker li a img {
     border-radius: 12px;
-}
+}*/
 
-#haircut-style-picker ul.color-picker li a.selected {
+/*#haircut-style-picker ul.color-picker li a.selected {
     border-radius: 20px;
-}
+}*/
 
-#haircut-style-picker .hr {
+/*#haircut-style-picker .hr {
     background: url(images/style-picker/seperator.png) no-repeat;
     max-width: 100%;
     height: 25px;
     margin: -10px 0px 10px;
     float: left;
-}
+}*/
 
 .style-picker-ico {
     background: #fff;
