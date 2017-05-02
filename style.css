@@ -1044,7 +1044,7 @@ img {
     width: 100%;
     float: left;
     padding: 0px;
-    background: #2b2d2d;
+    background: #05a2bf;
 }
 
 
@@ -1074,7 +1074,7 @@ img {
 
 #header .dt-sc-button {
     border-radius: 3px;
-    color: #1f1c1a;
+    color: #fff;
     font-size: 13px;
     text-transform: uppercase;
     text-align: center;
@@ -1187,7 +1187,7 @@ img {
     position: absolute;
     right: 0;
     text-align: center;
-    color: #202020;
+    color: #fff;
     font-size: 18px;
 }
 
